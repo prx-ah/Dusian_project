@@ -1,0 +1,8 @@
+2023/12/24-15:20:49.732 43a8 Creating DB C:\Users\ninen\dusian\Dogs_Cats_Detector\Default\Local Storage\leveldb since it was missing.
+2023/12/24-15:20:49.753 43a8 Reusing MANIFEST C:\Users\ninen\dusian\Dogs_Cats_Detector\Default\Local Storage\leveldb/MANIFEST-000001
+2023/12/24-16:31:58.960 5ec4 Level-0 table #5: started
+2023/12/24-16:31:58.964 5ec4 Level-0 table #5: 89981 bytes OK
+2023/12/24-16:31:58.966 5ec4 Delete type=0 #3
+2023/12/24-17:57:55.508 5ec4 Level-0 table #7: started
+2023/12/24-17:57:55.511 5ec4 Level-0 table #7: 43805 bytes OK
+2023/12/24-17:57:55.514 5ec4 Delete type=0 #4
